@@ -8,7 +8,7 @@ repo init -u git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.
 ```
 then you can clone this repo directly to the .repo/local_manifests
 ```
-git clone git://github.com/Ctapchuk/android-manifest -b rmx2061-twrp .repo/local_manifests/
+git clone git://github.com/Ctapchuk/android-manifest -b android-10.0_11 .repo/local_manifests/
 ```
 after that, you can start fetch the sources
 ```
