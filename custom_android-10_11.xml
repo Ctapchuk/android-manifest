@@ -3,5 +3,5 @@
   <remove-project name="android_bootable_recovery" />
   <remove-project name="android_system_sepolicy" />
   <project path="bootable/recovery" name="Ctapchuk/android_bootable_recovery" remote="github" revision="android-10.0_11" />
-  <project path="system/sepolicy" name="Ctapchuk/android_system_sepolicy" remote="github" revision="android-10_11" />
+  <!--project path="system/sepolicy" name="Ctapchuk/android_system_sepolicy" remote="github" revision="android-10_11" /-->
 </manifest>
